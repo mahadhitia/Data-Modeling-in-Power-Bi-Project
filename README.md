@@ -10,3 +10,7 @@ This is because a well-architected data model could minimize query load times, r
 ---
 
 ## Table of Contents
+
+1. [Project Overview](#project-overview)
+
+---
