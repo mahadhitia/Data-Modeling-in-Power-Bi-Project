@@ -16,3 +16,11 @@ This is because a well-architected data model could minimize query load times, r
 ---
 
 ## Project Overview
+
+This project involves:
+- Demonstrate end-to-end data modeling in Power BI to optimize downstream analytics.
+- Built a Star Schema model, connecting fact transactions with dimensional context.
+- Reducing complex DAX calculations and accelerating visual dashboard performance.
+
+---
+
