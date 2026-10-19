@@ -14,3 +14,5 @@ This is because a well-architected data model could minimize query load times, r
 1. [Project Overview](#project-overview)
 
 ---
+
+## Project Overview
